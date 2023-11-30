@@ -2,7 +2,7 @@
 
 ### Hi there, I am Ale 👋
 
-[![博客](https://img.shields.io/static/v1?label=%E5%8D%9A%E5%AE%A2&message=blog.guluqiu.cc&color=orange&logo=bloglovin&style=flat-square&logoColor=white)](https://blog.guluqiu.cc/)
+[![博客](https://img.shields.io/static/v1?label=%E5%8D%9A%E5%AE%A2&message=blog.guluqiu.cc&color=orange&logo=bloglovin&style=flat-square&logoColor=white)](https://loveasd.com/)
 [![公众号](https://img.shields.io/static/v1?label=公众号&message=万物天空&color=07c160&logo=wechat&style=flat-square&logoColor=white)](https://github.com/paopao233/OnlineFreeApi/raw/main/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png)
 [![邮箱](https://img.shields.io/static/v1?label=邮箱&message=%20zixingyx@gmail.com&color=5194f0&logo=gmail&style=flat-square&logoColor=white)](mailto:zixingyx@gmail.com)
 
